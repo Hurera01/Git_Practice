@@ -1,1 +1,2 @@
 conflict from bugfix1.txt
+add conflict from bug-fix2
